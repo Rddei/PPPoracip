@@ -396,7 +396,7 @@ export function Scrapbook() {
                 className="bg-gradient-to-r from-rose-500 to-pink-500 text-white px-8 py-3 rounded-full font-bold shadow-lg hover:shadow-xl hover:scale-105 transition-all flex items-center gap-2 mx-auto"
               >
                 <Music size={20} />
-                Buka & Putar Musik 🎵
+                Buka
               </button>
             </motion.div>
           </motion.div>
