@@ -144,7 +144,7 @@ function FunniestMomentsPage() {
         </AnimatePresence>
         
         {/* Decorations */}
-        <PressedFlower type="daisy" className="absolute top-2 right-2" size="sm" rotation={20} />
+        <PressedFlower type="daisy" className="absolute top-2 right-(-3)" size="sm" rotation={20} />
         <PressedFlower type="butterfly" className="absolute bottom-20 right-4" size="md" rotation={-10} />
         <StarDoodle className="absolute top-1/4 left-2" size="sm" color="#f687b3" />
       </div>
@@ -256,7 +256,7 @@ function FutureDreamsPage() {
         </div>
         
         {/* Decorations */}
-        <PressedFlower type="butterfly" className="absolute top-2 right-4" rotation={-20} />
+        <PressedFlower type="butterfly" className="absolute top-2 right-0" rotation={-20} />
         <PressedFlower type="leaf" className="absolute bottom-4 left-2" size="lg" rotation={45} />
         <HeartDoodle className="absolute bottom-8 right-8" color="#14b8a6" />
         <WashiTape color="mint" rotation={10} className="absolute top-16 right-0" width={50} />
